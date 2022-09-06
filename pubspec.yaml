@@ -58,6 +58,16 @@ flutter:
   uses-material-design: true
   assets:
     - assets/profile.JPG
+    - assets/biology.png
+    - assets/volunteer.png
+    - assets/pets.png
+    - assets/books.png
+    - assets/german.png
+    - assets/english.png
+    - assets/portugal.png
+    - assets/brazil.png
+    - assets/games.png
+    - assets/exercise.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
