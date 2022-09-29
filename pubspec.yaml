@@ -68,6 +68,19 @@ flutter:
     - assets/brazil.png
     - assets/games.png
     - assets/exercise.png
+    - assets/figma.png
+    - assets/flutter.png
+    - assets/flat.png
+    - assets/biologist.png
+    - assets/sos.png
+    - assets/cats.png
+    - assets/reading.png
+    - assets/neuschwanstein.png
+    - assets/world.png
+    - assets/curitiba.png
+    - assets/rossio.png
+    - assets/training.png
+    - assets/stray.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
