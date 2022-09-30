@@ -137,7 +137,7 @@ class Grid extends StatelessWidget {
       )).toList(),
       gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
         maxCrossAxisExtent: 200,
-        childAspectRatio: 3 / 2,
+        childAspectRatio: 2 / 2,
         crossAxisSpacing: 8,
         mainAxisSpacing: 8,
       ),

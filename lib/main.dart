@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:portfolioapp/custom_icons.dart';
+import 'package:portfolioapp/experiences.dart';
 import 'package:portfolioapp/home.dart';
+import 'package:portfolioapp/technologies.dart';
 
 
 
@@ -34,19 +36,13 @@ class _CustomPagesState extends State<CustomPages> {
   static const TextStyle optionStyle =
   TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
-    Text(
-      'Index 0: Experiencias',
-      style: optionStyle,
-    ),
+    Experiences(),
     Home(),
     Text(
       'Index 2: Projetos',
       style: optionStyle,
     ),
-    Text(
-      'Index 3: Tecnologias',
-      style: optionStyle,
-    ),
+    Tech(),
   ];
 
 

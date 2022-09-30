@@ -81,6 +81,35 @@ flutter:
     - assets/rossio.png
     - assets/training.png
     - assets/stray.png
+    - assets/pucpr.png
+    - assets/5stars.png
+    - assets/4stars.png
+    - assets/3stars.png
+    - assets/2stars.png
+    - assets/1star.png
+    - assets/html.png
+    - assets/intellij.png
+    - assets/css.png
+    - assets/pycharm.png
+    - assets/python.png
+    - assets/react.png
+    - assets/vs19.png
+    - assets/vscode.png
+    - assets/mysql.png
+    - assets/kotlin.png
+    - assets/js.png
+    - assets/java.png
+    - assets/csharp.png
+    - assets/bootstrap.png
+    - assets/microsoft.png
+    - assets/android.png
+    - assets/diretora.png
+    - assets/pibic.png
+    - assets/ibama.png
+    - assets/empreendedorismo.png
+    - assets/nasa.png
+    - assets/enactus.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

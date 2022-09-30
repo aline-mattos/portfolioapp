@@ -17,9 +17,9 @@ class CategoryItem extends StatelessWidget {
         showAlertDialog(context, category.content);
       },
       child: Container(
-        margin: EdgeInsets.only(left: 16, bottom: 16, top: 16, right: 16),
-        width: 160,
-        height: 160,
+        margin: EdgeInsets.all(16),
+        width: 400,
+        height: 200,
         decoration: BoxDecoration(
             color: category.color,
             boxShadow: [
@@ -38,8 +38,8 @@ class CategoryItem extends StatelessWidget {
             children: [
               //image inside the card
               Container(
-                width: 60,
-                height: 60,
+                width: 80,
+                height: 80,
                 child: category.image,
               ),
               Container(
@@ -51,7 +51,7 @@ class CategoryItem extends StatelessWidget {
                         fontFamily: 'Quicksand',
                         fontWeight: FontWeight.bold,
                         color: Color.fromRGBO(75, 68, 69, 10),
-                        fontSize: 16),
+                        fontSize: 18),
                   )),
             ],
           ),
