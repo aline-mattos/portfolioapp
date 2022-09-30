@@ -95,11 +95,14 @@ flutter:
   # example:
   fonts:
     - family: Quicksand
-
       fonts:
         - asset: assets/fonts/Quicksand-Bold.ttf
         - asset: assets/fonts/Quicksand-Regular.ttf
         - asset: assets/fonts/Quicksand-Light.ttf
+
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
 
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic

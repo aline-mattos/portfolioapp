@@ -36,7 +36,7 @@ showAlertDialog(BuildContext context, Content content) {
             ]),
       ),
       content: Container(
-        height: 400,
+        height: 425,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.start,

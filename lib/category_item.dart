@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:portfolioapp/model/content.dart';
 import 'model/category.dart';
 import 'dialog.dart';
 
@@ -18,7 +17,7 @@ class CategoryItem extends StatelessWidget {
         showAlertDialog(context, category.content);
       },
       child: Container(
-        margin: EdgeInsets.only(left: 16, bottom: 8, top: 8, right: 16),
+        margin: EdgeInsets.only(left: 16, bottom: 16, top: 16, right: 16),
         width: 160,
         height: 160,
         decoration: BoxDecoration(
