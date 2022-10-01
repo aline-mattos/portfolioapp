@@ -20,7 +20,9 @@ The app has 4 screens:
 
 ### Download the app/App Installation
 
-
+Since generating a test file (IPA) for installation on iOS devices would require the use of a macOS, the application is only available for android.
+The installation file for android can be found in the "files" folder of this repository.
+If you don't have an android device or you can't install it on an emulator, a video demonstrating how to navigate the app can also be found in the same folder.
 
 ## Projects
 

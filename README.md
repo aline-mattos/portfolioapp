@@ -20,7 +20,9 @@ O aplicativo possui 4 telas:
 
 ### Download/Instalação do aplicativo
 
-
+Visto que para gerar um arquivo de teste (IPA) para instalação em dispositivos iOS seria necessária a utilização de um macOS, o aplicativo está disponível somente para android.
+O arquivo de instalação para android pode ser encontrado na pasta "files" deste repositório.
+Caso não tenha um dispositivo android ou não seja possível instalar em um emulador, um vídeo demonstrando a navegação pelo aplicativo também pode ser encontrado na mesma pasta.
 
 ## Projetos
 
