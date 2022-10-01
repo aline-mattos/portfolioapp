@@ -1,52 +1,52 @@
-# Aplicativo de Portfólio
+# Portfolio App
 
-[English version here](README_en.md)
+[Portuguese version here](README.md)
 
-<br>Esse projeto Flutter foi criado como portfólio para o processo seletivo da Apple Developer Academy.
-O aplicativo tem como objetivo servir para meus estudos na área de mobile, assim como apresentar mais sobre mim, contando meus hobbies, projetos e vivências.
+<br>This Flutter project was created as my Apple Developer Academy portfolio. 
+The app is aimed at my personal mobile studies, but also has the intention to present myself, my hobbies, things that I like, my experiences and projects.
 
-## Usando o app
+## Using the app
 
-O aplicativo possui 4 telas:
-1. A primeira (em que ele abre) fala dos meus hobbies e coisas que eu gosto. Um pouco da minha história no geral;
-2. A segunda, à esquerda, fala das minhas vivências e experiências;
-3. A terceira, à direita da Home, fala dos meus projetos, tanto de design quanto em empreendedorismo;
-4. A quarta e última, mais à direita, resume todas as tecnologias que eu conheço, desde as que eu usei pouco até as que eu já estudei mais.
+The app has 4 screens:
+1. Home: tells my hobbies, things that I like. A little about me and my history in general.
+2. Vivências (Experiences): has my experiences, scolarships, internships, events that I participate.
+3. Projetos (Projects): joins all my projects in one page, since my designs until my podcast and a environmental educational project.
+4. Tecnologias (Technologies): It sums up all the technologies that I know, since the most familiar to me until the ones that I had a little contact.
 
 ![](https://media.giphy.com/media/w5kJYCa1mnsSZtxhAd/giphy.gif)
 ![](https://media.giphy.com/media/prM7DGM0ThHu7bNH1U/giphy.gif)
 ![](https://media.giphy.com/media/oA1hXF76n4QvYkJDps/giphy.gif)
 ![](https://media.giphy.com/media/1dsyiw79kuGDU9m2xM/giphy.gif)
 
-### Download/Instalação do aplicativo
+### Download the app/App Installation
 
 
 
-## Projetos
+## Projects
 
-Na página "Projetos" estão os projetos que eu já criei/desenvolvi. Alguns deles você pode conferir melhor aqui:
+At the "Projetos" (projects) page are all the projects that I created/develop. Some of them you can check here:
 
-O design desse portfólio que você está acessando:
+The design of this portfolio that you are seeing:
 
-- [Design do Portfólio no Figma](https://www.figma.com/file/1HeVMZ5vUXwE3bVdhJAELN/curriculum?node-id=0%3A1)
+- [Portfolio's Design at Figma](https://www.figma.com/file/1HeVMZ5vUXwE3bVdhJAELN/curriculum?node-id=0%3A1)
 
-O design do site do Reciclaê:
+The design of Reciclaê's site:
 
-- [Design do Reciclaê no Figma](https://www.figma.com/file/RTLl5KNdHdwEoekPzMKTHQ/reciclaecwb?node-id=0%3A1)
+- [Reciclaê's Design at Figma](https://www.figma.com/file/RTLl5KNdHdwEoekPzMKTHQ/reciclaecwb?node-id=0%3A1)
 
-O design do meu app de Leituras:
+The design of my reading app:
 
-- [Design app de leitura sno Figma](https://www.figma.com/file/206fCOYcFl8gwH9r6hEkMq/Bokks)
+- [Reading app Design at Figma](https://www.figma.com/file/206fCOYcFl8gwH9r6hEkMq/Bokks)
 
 Podcast Reunião do Foro:
 
-- [Podcast - no Spotify](https://open.spotify.com/show/5IZKTJ6cqBTCSSIWz7atFj?si=1f0ac75b982f4b58)
-- [Podcast - no instagram](https://www.instagram.com/reuniaodoforo/)
+- [Podcast - at Spotify](https://open.spotify.com/show/5IZKTJ6cqBTCSSIWz7atFj?si=1f0ac75b982f4b58)
+- [Podcast - at instagram](https://www.instagram.com/reuniaodoforo/)
 
-Pitch de Negócio da SIGNO ecobags de guarda-chuva:
+Pitch of SIGNO umbrella ecobags:
 
-- [Pitch da SIGNO](https://docs.google.com/presentation/d/1XlOBaG-s1wl5apQBSN_aDbe4Dtod_860Wq3AiYZMMWo/edit?usp=sharing)
+- [Pitch SIGNO](https://docs.google.com/presentation/d/1XlOBaG-s1wl5apQBSN_aDbe4Dtod_860Wq3AiYZMMWo/edit?usp=sharing)
 
-Pitch de Negócio da LÓTUS esmaltes veganos:
+Pitch of LÓTUS vegan nail polishes:
 
-- [Pitch da LÓTUS](https://docs.google.com/presentation/d/1mz8Cu9RpgtoF7WITDc89yVrUbPBasVLqW99dRCfIiW0/edit?usp=sharing)
+- [Pitch LÓTUS](https://docs.google.com/presentation/d/1mz8Cu9RpgtoF7WITDc89yVrUbPBasVLqW99dRCfIiW0/edit?usp=sharing)

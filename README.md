@@ -36,7 +36,7 @@ O design do site do Reciclaê:
 
 O design do meu app de Leituras:
 
-- [Design app de leitura sno Figma](https://www.figma.com/file/206fCOYcFl8gwH9r6hEkMq/Bokks)
+- [Design app de leituras no Figma](https://www.figma.com/file/206fCOYcFl8gwH9r6hEkMq/Bokks)
 
 Podcast Reunião do Foro:
 
