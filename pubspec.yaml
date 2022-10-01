@@ -122,6 +122,10 @@ flutter:
     - assets/signo.png
     - assets/sustainable.png
     - assets/nailart.png
+    - assets/code.png
+    - assets/nailpolish.png
+    - assets/recycle.png
+    - assets/series.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
