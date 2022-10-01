@@ -1,4 +1,4 @@
-# Aplicativo de Portfólio
+# Aplicativo de Portfólio - [English version here](README_en.md)
 
 Esse projeto Flutter foi criado como portfólio para o processo seletivo da Apple Developer Academy.
 O aplicativo tem como objetivo servir para meus estudos na área de mobile, assim como apresentar mais sobre mim, contando meus hobbies, projetos e vivências.
