@@ -1,6 +1,8 @@
 # Aplicativo de Portfólio
 
-Esse projeto Flutter foi criado como portfólio para o processo seletivo da Apple Developer Academy.
+[English version here](README_en.md)
+
+<br>Esse projeto Flutter foi criado como portfólio para o processo seletivo da Apple Developer Academy.
 O aplicativo tem como objetivo servir para meus estudos na área de mobile, assim como apresentar mais sobre mim, contando meus hobbies, projetos e vivências.
 
 ## Usando o app
@@ -11,14 +13,18 @@ O aplicativo possui 4 telas:
 3. A terceira, à direita da Home, fala dos meus projetos, tanto de design quanto em empreendedorismo;
 4. A quarta e última, mais à direita, resume todas as tecnologias que eu conheço, desde as que eu usei pouco até as que eu já estudei mais.
 
-![](https://media.giphy.com/media/OfqOiAGUKRlpy1kryd/giphy.gif)
+![](https://media.giphy.com/media/w5kJYCa1mnsSZtxhAd/giphy.gif)
+![](https://media.giphy.com/media/prM7DGM0ThHu7bNH1U/giphy.gif)
+![](https://media.giphy.com/media/oA1hXF76n4QvYkJDps/giphy.gif)
+![](https://media.giphy.com/media/1dsyiw79kuGDU9m2xM/giphy.gif)
 
 ### Download/Instalação do aplicativo
 
 
+
 ## Projetos
 
-Nessa página estão os projetos que eu já criei/desenvolvi. Alguns deles você pode conferir melhor aqui:
+Na página "Projetos" estão os projetos que eu já criei/desenvolvi. Alguns deles você pode conferir melhor aqui:
 
 O design desse portfólio que você está acessando:
 
