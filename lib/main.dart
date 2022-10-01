@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:portfolioapp/custom_icons.dart';
 import 'package:portfolioapp/experiences.dart';
 import 'package:portfolioapp/home.dart';
+import 'package:portfolioapp/projects.dart';
 import 'package:portfolioapp/technologies.dart';
 
 
@@ -38,10 +39,7 @@ class _CustomPagesState extends State<CustomPages> {
   static const List<Widget> _widgetOptions = <Widget>[
     Experiences(),
     Home(),
-    Text(
-      'Index 2: Projetos',
-      style: optionStyle,
-    ),
+    Projects(),
     Tech(),
   ];
 
@@ -61,7 +59,7 @@ class _CustomPagesState extends State<CustomPages> {
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.school),
+            icon: Icon(Icons.school_outlined),
             label: 'School',
           ),
           BottomNavigationBarItem(

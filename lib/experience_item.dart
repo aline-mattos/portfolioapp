@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'model/experience.dart';
-import 'experience_data.dart';
 
 class xpItem extends StatelessWidget {
 

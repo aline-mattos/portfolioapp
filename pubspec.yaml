@@ -109,6 +109,19 @@ flutter:
     - assets/empreendedorismo.png
     - assets/nasa.png
     - assets/enactus.png
+    - assets/reses.png
+    - assets/bookshelf.png
+    - assets/education.png
+    - assets/friends.png
+    - assets/grad.png
+    - assets/lotus.png
+    - assets/portfolio.png
+    - assets/profuturo.png
+    - assets/rdf.png
+    - assets/reciclae.png
+    - assets/signo.png
+    - assets/sustainable.png
+    - assets/nailart.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
