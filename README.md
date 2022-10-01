@@ -11,7 +11,7 @@ O aplicativo possui 4 telas:
 3. A terceira, à direita da Home, fala dos meus projetos, tanto de design quanto em empreendedorismo;
 4. A quarta e última, mais à direita, resume todas as tecnologias que eu conheço, desde as que eu usei pouco até as que eu já estudei mais.
 
-![](https://media.giphy.com/media/y5kX2Yc79y8I1LJ2UC/giphy.gif)
+![](https://media.giphy.com/media/OfqOiAGUKRlpy1kryd/giphy.gif)
 
 
 ##Projetos
