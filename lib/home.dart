@@ -40,17 +40,17 @@ class Header extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 235,
+      height: 240,
       decoration: BoxDecoration(
           borderRadius: BorderRadius.only(
               bottomLeft: Radius.circular(14),
               bottomRight: Radius.circular(14)),
           color: Color.fromRGBO(255, 219, 228, 100)),
       //inside the pink header
-      child: ListView(children: [
+      child: Column(children: [
         Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            crossAxisAlignment: CrossAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
